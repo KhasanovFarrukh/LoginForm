@@ -20,7 +20,7 @@ forget.addEventListener('click', forgeting);
 startButton.addEventListener('click', startpages);
 
 function forgeting() {
-	alert('Login: Farrux\nParolni topish uchun bugungi kun, oy, yilni quyidagi ko\'rinishda kiriting 01.01.2020');
+	alert('Login: Farrux\nParolni topish uchun bugungi kun, oy, yilni quyidagi ko\'rinishda kiriting 1.1.2020');
 }
 
 function authorization() {
