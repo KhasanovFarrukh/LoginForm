@@ -45,3 +45,5 @@ function startpages() {
 	form.style.display = 'block';
 	startPage.style.display = 'none';
 }
+
+//For testing
